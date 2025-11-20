@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Tetiana Sukhorska
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-gennadievna-76632a39a/)) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Tatyana_Gennadievna_S) [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](tetianagennadievna87@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-gennadievna-76632a39a/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Tatyana_Gennadievna_S) [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](tetianagennadievna87@gmail.com)
 
 # Junior Fullstack Developer 
 
