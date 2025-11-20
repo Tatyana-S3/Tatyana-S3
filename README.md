@@ -36,6 +36,7 @@ Stack: Native JavaScript, HTML5, SASS.
 
 ## ✨ GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatyana-S3&layout=compact&theme=catppuccin_mocha)](https://github.com/Tatyana-S3)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tatyana-S3&show_icons=true&hide_title=true&bg_color=151515&text_color=ffffff&icon_color=d4b4e0&hide_border=true)](https://github.com/Tatyana-S3)
 
 <!--[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatyana-S3&theme=catppuccin-mocha)](https://github.com/Tatyana-S3)-->
 
