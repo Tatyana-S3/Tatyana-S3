@@ -1,11 +1,22 @@
 ## 👋 Hi, I'm Tetiana Sukhorska
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](www.linkedin.com/in/tetiana-gennadievna-76632a39a) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/Tatyana_Gennadievna_S) [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](tetianagennadievna87@gmail.com)
 
 # Junior Fullstack Developer 
 
  I focus on creating effective REST APIs and optimising performance. I am purposefully studying React to close the development cycle and transition to a full-stack position. I adhere to clean coding principles, am confident working with Git, and am ready for team collaboration in an Agile/Scrum environment.
 
  ## 🧰 Tech Stack  
-HTML5 | CSS3 | JavaScript | TypeScript | Node.js
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON/API" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" height="40"/>
+</p>
 
 ## 💻Featured Projects
 - [Products-card](https://github.com/Tatyana-S3/Products-card) - a custom project covering the entire data interaction cycle.
@@ -23,8 +34,11 @@ Stack: Native JavaScript, HTML5, SASS.
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Russian-Native-brightgreen?style=flat-square)
 
-## 📫 How to reach me:
-[LinkedIn](www.linkedin.com/in/tetiana-gennadievna-76632a39a) | [Telegram](https://t.me/Tatyana_Gennadievna_S) | [Email](tetianagennadievna87@gmail.com)
+## ✨ GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatyana-S3&layout=compact&theme=catppuccin_mocha)](https://github.com/Tatyana-S3)
+
+<!--[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatyana-S3&theme=catppuccin-mocha)](https://github.com/Tatyana-S3)-->
+
 <!--
 **Tatyana-S3/Tatyana-S3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
